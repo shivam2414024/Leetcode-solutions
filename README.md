@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
