@@ -17,6 +17,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2582-pass-the-pillow](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Number Theory
 |  |
@@ -70,6 +71,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2582-pass-the-pillow](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String
 |  |
 | ------- |
