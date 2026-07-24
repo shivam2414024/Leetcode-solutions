@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -73,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -81,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
