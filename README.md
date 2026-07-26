@@ -6,6 +6,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2582-pass-the-pillow](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
