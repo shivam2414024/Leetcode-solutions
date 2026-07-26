@@ -16,6 +16,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Number Theory
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
