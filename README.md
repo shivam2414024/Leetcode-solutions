@@ -7,6 +7,7 @@
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
