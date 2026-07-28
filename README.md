@@ -85,6 +85,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -108,6 +109,7 @@
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [2938-separate-black-and-white-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
