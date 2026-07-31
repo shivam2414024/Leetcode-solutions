@@ -14,6 +14,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
@@ -161,6 +162,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
 ## Sliding Window
@@ -194,5 +196,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
