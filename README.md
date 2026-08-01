@@ -8,6 +8,7 @@
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,4 +208,12 @@
 | [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
