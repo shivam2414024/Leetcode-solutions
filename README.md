@@ -128,6 +128,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2938-separate-black-and-white-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
@@ -192,6 +193,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -238,5 +240,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
