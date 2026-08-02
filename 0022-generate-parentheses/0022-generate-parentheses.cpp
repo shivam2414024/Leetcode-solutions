@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // TC: O(2^2n)  SC: O(2n)
     bool isValid(string& s) {
         int count = 0;
         for (int i = 0; i < s.size(); i++) {
