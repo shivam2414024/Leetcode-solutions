@@ -273,12 +273,14 @@
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -293,5 +295,10 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
