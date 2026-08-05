@@ -13,12 +13,12 @@
 class Solution {
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
-        if(root == nullptr){
+        if (root == nullptr) {
             return {};
         }
         queue<TreeNode*> q;
         q.push(root);
-        stack<vector<int>> st;
+        vector<vector<int>> ans;
         while (!q.empty()) {
             int sz = q.size();
             vector<int> temp;
@@ -31,14 +31,9 @@ public:
                     q.push(node->right);
                 temp.push_back(node->val);
             }
-            st.push(temp);
+            ans.push_back(temp);
         }
-        vector<vector<int>> ans;
-        while (!st.empty()) {
-            auto vec = st.top();
-            st.pop();
-            ans.push_back(vec);
-        }
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
