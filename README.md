@@ -190,6 +190,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
