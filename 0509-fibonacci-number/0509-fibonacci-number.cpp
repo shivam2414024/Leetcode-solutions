@@ -1,13 +1,15 @@
 class Solution {
 public:
-    int solve(int n) {
-        if (n == 0) {
-            return 0;
+    int fib(int n) {
+        if (n <= 1)
+            return n;
+        int prev1 = 0;
+        int prev2 = 1;
+        for (int i = 2; i <= n; i++) {
+            int curr = prev1 + prev2;
+            prev1 = prev2;
+            prev2 = curr;
         }
-        if (n == 1) {
-            return 1;
-        }
-        return solve(n - 1) + solve(n - 2);
+        return prev2;
     }
-    int fib(int n) { return solve(n); }
 };
