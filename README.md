@@ -51,6 +51,7 @@
 | [0877-stone-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -230,6 +231,7 @@
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2742-painting-the-walls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2742-painting-the-walls) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -282,6 +284,7 @@
 | [0877-stone-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -353,8 +356,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
