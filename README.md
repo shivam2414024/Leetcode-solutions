@@ -201,6 +201,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3362-zero-array-transformation-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,10 +281,12 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3310-remove-methods-from-project](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Counting Sort
 |  |
 | ------- |
