@@ -1,25 +1,49 @@
 class Solution {
 public:
-    // TC: O(N^2) SC: O(N)
-    void dfs(vector<vector<int>>& stones, int index, vector<bool>& vis) {
-        vis[index] = true;
-        for (int i = 0; i < stones.size(); i++) {
-            int r = stones[index][0];
-            int c = stones[index][1];
-            if ((vis[i] == false) && (stones[i][0] == r || stones[i][1] == c)) {
-                dfs(stones, i, vis);
+    vector<int> parent;
+    vector<int> rank;
+    int n;
+
+    int find(int i) {
+        if (parent[i] != i)
+            return parent[i] = find(parent[i]);
+        return parent[i];
+    }
+
+    void Union(int i, int j) {
+        int parent_i = find(i);
+        int parent_j = find(j);
+        if (parent_i != parent_j) {
+            if (rank[parent_i] > rank[parent_j]) {
+                parent[parent_j] = parent_i;
+            } else if (rank[parent_i] < rank[parent_j]) {
+                parent[parent_i] = parent_j;
+            } else {
+                parent[parent_j] = parent_i;
             }
         }
     }
     int removeStones(vector<vector<int>>& stones) {
-        int n = stones.size();
-        vector<bool> vis(n, false);
+        n = stones.size();
+        parent.resize(n);
+        rank.resize(n);
+
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+            rank[i] = 1;
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if ((stones[i][0] == stones[j][0]) ||
+                    (stones[i][1] == stones[j][1])) {
+                    Union(i, j);
+                }
+            }
+        }
         int group = 0;
         for (int i = 0; i < n; i++) {
-            if (vis[i] == true)
-                continue;
-            dfs(stones, i, vis);
-            group++;
+            if (parent[i] == i)
+                group++;
         }
         return n - group;
     }
