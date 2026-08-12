@@ -111,6 +111,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -281,6 +282,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -363,6 +365,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3310-remove-methods-from-project](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -406,4 +409,12 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Union-Find
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
