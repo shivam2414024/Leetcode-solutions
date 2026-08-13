@@ -164,6 +164,7 @@
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1446-consecutive-characters](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2938-separate-black-and-white-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
