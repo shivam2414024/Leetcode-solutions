@@ -39,6 +39,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2742-painting-the-walls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2742-painting-the-walls) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -188,6 +189,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3356-zero-array-transformation-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3356-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -212,6 +214,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3362-zero-array-transformation-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Divide and Conquer
@@ -367,6 +370,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -433,6 +437,7 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -441,8 +446,13 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Sqrt Decomposition
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
