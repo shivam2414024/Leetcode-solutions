@@ -25,6 +25,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -122,6 +123,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -211,6 +213,7 @@
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -247,6 +250,7 @@
 | ------- |
 | [0078-subsets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
