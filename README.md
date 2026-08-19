@@ -122,6 +122,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -178,6 +179,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1446-consecutive-characters](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2938-separate-black-and-white-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -284,6 +286,7 @@
 | [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2742-painting-the-walls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2742-painting-the-walls) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -314,6 +317,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3310-remove-methods-from-project](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -327,6 +331,7 @@
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
@@ -359,6 +364,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
@@ -478,4 +484,12 @@
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Topological Sort
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
