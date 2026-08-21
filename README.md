@@ -46,6 +46,7 @@
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -76,6 +77,7 @@
 | [2582-pass-the-pillow](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3360-stone-removal-game) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Database
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3356-zero-array-transformation-ii) |
 ## Greedy
@@ -252,6 +256,7 @@
 | [0191-number-of-1-bits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -501,4 +506,8 @@
 | ------- |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
