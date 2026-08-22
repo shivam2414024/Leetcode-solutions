@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -160,6 +161,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1162-as-far-from-land-as-possible](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
