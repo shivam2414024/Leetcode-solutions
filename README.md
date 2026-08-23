@@ -28,6 +28,7 @@
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -172,6 +173,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -305,6 +307,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
