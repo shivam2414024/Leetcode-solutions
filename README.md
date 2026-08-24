@@ -68,6 +68,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
@@ -532,5 +534,6 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
