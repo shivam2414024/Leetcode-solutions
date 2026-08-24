@@ -27,6 +27,7 @@
 | [0904-fruit-into-baskets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -158,6 +159,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
+| [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -252,6 +255,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -285,6 +289,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
