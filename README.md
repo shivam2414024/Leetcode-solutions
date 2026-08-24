@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
@@ -306,6 +307,7 @@
 | [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
