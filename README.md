@@ -41,6 +41,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
@@ -82,6 +83,7 @@
 | [1563-stone-game-v](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2582-pass-the-pillow](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
@@ -285,6 +287,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -325,6 +328,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2742-painting-the-walls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2742-painting-the-walls) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -389,6 +393,7 @@
 | [1406-stone-game-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
@@ -472,11 +477,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
