@@ -210,6 +210,7 @@
 | [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1446-consecutive-characters) |
@@ -250,6 +251,7 @@
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
@@ -333,6 +335,7 @@
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -462,6 +465,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Depth-First Search
@@ -572,4 +576,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
