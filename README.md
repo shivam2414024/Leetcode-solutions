@@ -209,6 +209,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
+| [0115-distinct-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -329,6 +330,7 @@
 | [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
