@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -444,6 +445,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0078-subsets) |
