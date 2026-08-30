@@ -7,13 +7,11 @@ public:
             return;
         }
 
-        if (num > n)
-            return;
-
-        arr.push_back(num);
-        solve(n, k, num + 1, idx + 1, ans, arr);
-        arr.pop_back();
-        solve(n, k, num + 1, idx, ans, arr);
+        for (int i = num; i <= n; i++) {
+            arr.push_back(i);
+            solve(n, k, i + 1, idx + 1, ans, arr);
+            arr.pop_back();
+        }
     }
     vector<vector<int>> combine(int n, int k) {
         vector<vector<int>> ans;
