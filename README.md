@@ -79,6 +79,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -215,6 +216,7 @@
 | [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -417,6 +419,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -478,6 +481,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
