@@ -81,6 +81,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
