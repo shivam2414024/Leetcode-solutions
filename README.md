@@ -161,6 +161,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0690-employee-importance) |
+| [0756-pyramid-transition-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0904-fruit-into-baskets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
@@ -239,6 +240,7 @@
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0756-pyramid-transition-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -327,6 +329,7 @@
 | [0078-subsets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0756-pyramid-transition-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -477,6 +480,7 @@
 | [0078-subsets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
