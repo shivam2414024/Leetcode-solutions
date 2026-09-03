@@ -240,6 +240,7 @@
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1446-consecutive-characters](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -474,6 +475,7 @@
 | [0078-subsets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Longest Increasing Subsequence
