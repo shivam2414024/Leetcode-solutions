@@ -84,6 +84,7 @@
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [3355-zero-array-transformation-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
+| [3903-smallest-stable-index-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
