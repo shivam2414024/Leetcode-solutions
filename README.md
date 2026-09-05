@@ -29,6 +29,7 @@
 | [0679-24-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0690-employee-importance) |
 | [0877-stone-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0877-stone-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -336,6 +337,7 @@
 | [0191-number-of-1-bits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -388,6 +390,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0877-stone-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
