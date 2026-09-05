@@ -92,6 +92,7 @@
 | [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0319-bulb-switcher](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -659,4 +660,8 @@
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
