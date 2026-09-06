@@ -2,11 +2,11 @@ class Solution {
 public:
     int solve(int n, int m, string& s, string& t, int i, int j,
               vector<vector<int>>& dp) {
-        if (i == n && j != m)
-            return 0;
-
         if (j == m)
             return 1;
+
+        if (i == n)
+            return 0;
 
         if (dp[i][j] != -1)
             return dp[i][j];
