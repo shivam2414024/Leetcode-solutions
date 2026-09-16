@@ -109,6 +109,7 @@
 | [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -371,6 +372,7 @@
 | [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -422,6 +424,7 @@
 | [1563-stone-game-v](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2305-fair-distribution-of-cookies](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
@@ -677,6 +680,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Longest Common Subsequence
 |  |
