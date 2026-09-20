@@ -253,6 +253,7 @@
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3360-stone-removal-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
