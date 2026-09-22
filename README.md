@@ -99,6 +99,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -501,6 +502,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
