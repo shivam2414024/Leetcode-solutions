@@ -272,6 +272,7 @@
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0709-to-lower-case](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0940-distinct-subsequences-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
