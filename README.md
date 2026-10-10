@@ -64,6 +64,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2305-fair-distribution-of-cookies](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2742-painting-the-walls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2742-painting-the-walls) |
@@ -221,6 +222,7 @@
 | [1943-describe-the-painting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1943-describe-the-painting) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -316,6 +318,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -337,6 +340,7 @@
 | [1927-sum-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2938-separate-black-and-white-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -352,6 +356,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3362-zero-array-transformation-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
