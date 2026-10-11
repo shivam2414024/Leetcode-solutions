@@ -68,6 +68,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2742-painting-the-walls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2742-painting-the-walls) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -305,6 +306,7 @@
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
