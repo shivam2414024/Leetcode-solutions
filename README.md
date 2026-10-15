@@ -70,6 +70,7 @@
 | [2742-painting-the-walls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -201,6 +202,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -687,6 +689,7 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
@@ -696,6 +699,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivam2414024/Leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Sqrt Decomposition
 |  |
