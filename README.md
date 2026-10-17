@@ -108,6 +108,7 @@
 | [0319-bulb-switcher](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -279,6 +281,7 @@
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0412-fizz-buzz](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0709-to-lower-case) |
