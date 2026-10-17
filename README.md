@@ -119,6 +119,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
