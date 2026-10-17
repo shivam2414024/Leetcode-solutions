@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -548,6 +549,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0326-power-of-three) |
