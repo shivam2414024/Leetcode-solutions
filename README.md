@@ -41,6 +41,7 @@
 | [1267-count-servers-that-communicate](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -195,6 +196,7 @@
 | [0904-fruit-into-baskets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -224,6 +226,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -525,6 +528,7 @@
 | ------- |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1854-maximum-population-year](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
