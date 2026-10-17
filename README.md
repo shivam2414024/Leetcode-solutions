@@ -16,6 +16,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
@@ -467,6 +468,7 @@
 | [0064-minimum-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0377-combination-sum-iv](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
