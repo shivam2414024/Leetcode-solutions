@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
