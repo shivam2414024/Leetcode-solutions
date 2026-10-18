@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -245,6 +247,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -314,6 +317,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
