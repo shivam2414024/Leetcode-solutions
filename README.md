@@ -305,6 +305,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0125-valid-palindrome) |
