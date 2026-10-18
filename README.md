@@ -211,6 +211,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0690-employee-importance) |
@@ -318,6 +319,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -578,6 +580,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -811,4 +814,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
