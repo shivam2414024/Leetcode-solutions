@@ -210,6 +210,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -244,6 +245,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -318,6 +320,7 @@
 | [0125-valid-palindrome](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0412-fizz-buzz) |
