@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0312-burst-balloons) |
@@ -359,6 +360,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -524,6 +526,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
