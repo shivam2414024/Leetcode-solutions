@@ -43,6 +43,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
@@ -258,6 +259,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0905-sort-array-by-parity](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -419,6 +421,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -437,6 +440,7 @@
 | [0191-number-of-1-bits](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0912-sort-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -594,6 +598,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1079-letter-tile-possibilities](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam2414024/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -832,4 +837,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
