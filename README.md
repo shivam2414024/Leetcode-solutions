@@ -179,6 +179,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/shivam2414024/Leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
